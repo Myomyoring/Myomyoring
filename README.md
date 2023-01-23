@@ -2,8 +2,10 @@
 
 👩🏻‍💻 열심히 공부 중인 백엔드 웹 개발자
 
-📧 E-mail : narcissucat@naver.com
+📧 E-mail : narcissucat@naver.com   
 📚 blog : dazzle-dazzle.tistory.com
+
+***
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myomyoring&layout=compact)](https://github.com/Myomyoring/github-readme-stats)
 
