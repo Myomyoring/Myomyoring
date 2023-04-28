@@ -2,8 +2,7 @@
 
 👩🏻‍💻 열심히 공부 중인 웹 개발자
 
-📧 E-mail : narcissucat@naver.com   
-📚 blog : dazzle-dazzle.tistory.com
+📧 E-mail : narcissucat@naver.com
 
 ***
 
